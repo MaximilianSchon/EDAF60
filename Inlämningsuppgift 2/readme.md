@@ -1,6 +1,4 @@
-# Redovisning
-
-## Grupprojekt med 3 personer
+# Grupprojekt med 3 personer
 ### Ett grundläggande excelark. Vissa GUI-klasser ingick. Test-filerna ingick.  
 
 
